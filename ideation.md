@@ -1,28 +1,30 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: LockIn Web Blocker
 
 ## Authors
 
-[Include your names here]
+Shruti Agarwal, Tiana Costello, Minfei Shen, Eric Zou
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
+It can be very easy to lose focus on work when using the internet through a web browser like Google Chrome.
 
 ## Target Audience
 
-[Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
+The Chome extension is usable by all Chrome users. However, the target audience is centered around people who utilize the Internet as a means to complete their work. This could be professionals, 
 
 ## Description
 
+LockIn Web Blocker offers features to help direct your attention to what matters most, reminding you to not visit websites that you deem as irrelevant to your current activity. 
 [Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
 
 ## Selling Points
 
-1. [Selling Point 1]
-2. [Selling Point 2]
-3. [Selling Point 3]
-4. [Selling Point 4]
-5. [Selling Point 5]
+1. **Flexible Blocking**: Customize filter lists of websites to block, and activate groups of filter lists during each task
+2. **Built-in Scheduling**: Timers and schedules are available to block out time to work and take breaks, offering convenient time management functionality
+3. **Native Accountability Features**: Track time usage on various websites and derive insights for improving efficiency on the web
+4. **Privacy**: Personal information is stored locally, with large-scale reporting and analytics using anonymized, aggregate data
+5. **Clean UI**: Our web blocker features an intuitive and neat interface, allowing you to easily manage block lists and set blocking that works for you.
+6. **Free**: Our web blocker is completely free, allowing users to focus solely on their web usage. 
 
 ## User Stories
 
