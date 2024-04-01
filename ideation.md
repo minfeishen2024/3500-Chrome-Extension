@@ -24,7 +24,7 @@ LockIn Web Blocker offers features to help direct your attention to what matters
 4. **Privacy**: Personal information is stored locally, with large-scale reporting and analytics using anonymized, aggregate data
 5. **Clean UI**: Our web blocker features an intuitive and neat interface, allowing you to easily manage block lists and set blocking that works for you.
 6. **Free**: Our web blocker is completely free, allowing users to focus solely on their web usage.
-7. **Performant**: Our web blocker 
+7. **Performant**: Our web blocker is optimized to run smoothly without slowing down the user's browser.
 
 ## User Stories
 
